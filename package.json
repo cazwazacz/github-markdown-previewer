@@ -10,6 +10,8 @@
   "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
   "license": "ISC",
   "dependencies": {
+    "html-react-parser": "^0.2.0",
+    "marked": "^0.3.6",
     "raven-js": "^3.3.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
