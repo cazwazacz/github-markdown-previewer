@@ -1,5 +1,5 @@
 {
-  "name": "gh-battle",
+  "name": "markdown-previewer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "webpack-dev-server",
     "prod": "webpack -p"
   },
-  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
+  "author": "Allan Wazacz",
   "license": "ISC",
   "dependencies": {
     "html-react-parser": "^0.2.0",
